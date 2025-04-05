@@ -20,3 +20,6 @@
 
 ## Update from refactor/merge-2761
 - Auto-generated changes
+
+## Update from feature/update-4478
+- Auto-generated changes
