@@ -23,3 +23,6 @@
 
 ## Update from enhancement/merge-4027
 - Auto-generated changes
+
+## Update from refactor/update-7906
+- Auto-generated changes
