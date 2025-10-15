@@ -11,3 +11,6 @@
 
 ## Update from enhancement/merge-6535
 - Auto-generated changes
+
+## Update from feature/update-6304
+- Auto-generated changes
