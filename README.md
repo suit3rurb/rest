@@ -23,3 +23,6 @@
 
 ## Update from enhancement/merge-4027
 - Auto-generated changes
+
+## Update from docs/update-7439
+- Auto-generated changes
